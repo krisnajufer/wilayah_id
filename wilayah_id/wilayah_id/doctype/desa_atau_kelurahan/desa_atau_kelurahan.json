@@ -1,0 +1,89 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format:{zone_code} - {kelurahan}",
+ "creation": "2025-12-22 09:06:04.606949",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_ejhc",
+  "kelurahan",
+  "zone_code",
+  "provinsi",
+  "kabupaten_kota",
+  "kecamatan"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_ejhc",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "kelurahan",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Desa / Kelurahan",
+   "options": "data",
+   "reqd": 1
+  },
+  {
+   "fieldname": "zone_code",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Zone Code",
+   "options": "float",
+   "reqd": 1
+  },
+  {
+   "fieldname": "provinsi",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Provinsi",
+   "options": "Provinsi",
+   "reqd": 1
+  },
+  {
+   "fieldname": "kabupaten_kota",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Kabupaten / Kota",
+   "options": "Kabupaten Atau Kota",
+   "reqd": 1
+  },
+  {
+   "fieldname": "kecamatan",
+   "fieldtype": "Link",
+   "label": "Kecamatan",
+   "options": "Kecamatan",
+   "reqd": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-12-23 14:30:21.823963",
+ "modified_by": "Administrator",
+ "module": "Wilayah Id",
+ "name": "Desa Atau Kelurahan",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

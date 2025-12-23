@@ -1,0 +1,43 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-12-23 16:00:48.630012",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "reset"
+ ],
+ "fields": [
+  {
+   "fieldname": "reset",
+   "fieldtype": "Button",
+   "label": "Reset to Default"
+  }
+ ],
+ "grid_page_length": 50,
+ "in_create": 1,
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-12-23 16:27:40.471157",
+ "modified_by": "Administrator",
+ "module": "Wilayah Id",
+ "name": "Wilayah ID Settings",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

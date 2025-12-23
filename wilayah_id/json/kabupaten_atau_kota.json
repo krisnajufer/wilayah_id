@@ -1,0 +1,3086 @@
+[
+  {
+    "name": "Kabupaten Aceh Selatan",
+    "kabupaten_kota": "Kabupaten Aceh Selatan",
+    "zone_code": "11.01",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Tenggara",
+    "kabupaten_kota": "Kabupaten Aceh Tenggara",
+    "zone_code": "11.02",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Timur",
+    "kabupaten_kota": "Kabupaten Aceh Timur",
+    "zone_code": "11.03",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Tengah",
+    "kabupaten_kota": "Kabupaten Aceh Tengah",
+    "zone_code": "11.04",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Barat",
+    "kabupaten_kota": "Kabupaten Aceh Barat",
+    "zone_code": "11.05",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Besar",
+    "kabupaten_kota": "Kabupaten Aceh Besar",
+    "zone_code": "11.06",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Pidie",
+    "kabupaten_kota": "Kabupaten Pidie",
+    "zone_code": "11.07",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Utara",
+    "kabupaten_kota": "Kabupaten Aceh Utara",
+    "zone_code": "11.08",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Simeulue",
+    "kabupaten_kota": "Kabupaten Simeulue",
+    "zone_code": "11.09",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Singkil",
+    "kabupaten_kota": "Kabupaten Aceh Singkil",
+    "zone_code": "11.10",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Bireuen",
+    "kabupaten_kota": "Kabupaten Bireuen",
+    "zone_code": "11.11",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Barat Daya",
+    "kabupaten_kota": "Kabupaten Aceh Barat Daya",
+    "zone_code": "11.12",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Gayo Lues",
+    "kabupaten_kota": "Kabupaten Gayo Lues",
+    "zone_code": "11.13",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Jaya",
+    "kabupaten_kota": "Kabupaten Aceh Jaya",
+    "zone_code": "11.14",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Nagan Raya",
+    "kabupaten_kota": "Kabupaten Nagan Raya",
+    "zone_code": "11.15",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Aceh Tamiang",
+    "kabupaten_kota": "Kabupaten Aceh Tamiang",
+    "zone_code": "11.16",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Bener Meriah",
+    "kabupaten_kota": "Kabupaten Bener Meriah",
+    "zone_code": "11.17",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Pidie Jaya",
+    "kabupaten_kota": "Kabupaten Pidie Jaya",
+    "zone_code": "11.18",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kota Banda Aceh",
+    "kabupaten_kota": "Kota Banda Aceh",
+    "zone_code": "11.71",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kota Sabang",
+    "kabupaten_kota": "Kota Sabang",
+    "zone_code": "11.72",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kota Lhokseumawe",
+    "kabupaten_kota": "Kota Lhokseumawe",
+    "zone_code": "11.73",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kota Langsa",
+    "kabupaten_kota": "Kota Langsa",
+    "zone_code": "11.74",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kota Subulussalam",
+    "kabupaten_kota": "Kota Subulussalam",
+    "zone_code": "11.75",
+    "provinsi": "Aceh"
+  },
+  {
+    "name": "Kabupaten Tapanuli Tengah",
+    "kabupaten_kota": "Kabupaten Tapanuli Tengah",
+    "zone_code": "12.01",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Tapanuli Utara",
+    "kabupaten_kota": "Kabupaten Tapanuli Utara",
+    "zone_code": "12.02",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Tapanuli Selatan",
+    "kabupaten_kota": "Kabupaten Tapanuli Selatan",
+    "zone_code": "12.03",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Nias",
+    "kabupaten_kota": "Kabupaten Nias",
+    "zone_code": "12.04",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Langkat",
+    "kabupaten_kota": "Kabupaten Langkat",
+    "zone_code": "12.05",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Karo",
+    "kabupaten_kota": "Kabupaten Karo",
+    "zone_code": "12.06",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Deli Serdang",
+    "kabupaten_kota": "Kabupaten Deli Serdang",
+    "zone_code": "12.07",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Simalungun",
+    "kabupaten_kota": "Kabupaten Simalungun",
+    "zone_code": "12.08",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Asahan",
+    "kabupaten_kota": "Kabupaten Asahan",
+    "zone_code": "12.09",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Labuhanbatu",
+    "kabupaten_kota": "Kabupaten Labuhanbatu",
+    "zone_code": "12.10",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Dairi",
+    "kabupaten_kota": "Kabupaten Dairi",
+    "zone_code": "12.11",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Toba",
+    "kabupaten_kota": "Kabupaten Toba",
+    "zone_code": "12.12",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Mandailing Natal",
+    "kabupaten_kota": "Kabupaten Mandailing Natal",
+    "zone_code": "12.13",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Nias Selatan",
+    "kabupaten_kota": "Kabupaten Nias Selatan",
+    "zone_code": "12.14",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Pakpak Bharat",
+    "kabupaten_kota": "Kabupaten Pakpak Bharat",
+    "zone_code": "12.15",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Humbang Hasundutan",
+    "kabupaten_kota": "Kabupaten Humbang Hasundutan",
+    "zone_code": "12.16",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Samosir",
+    "kabupaten_kota": "Kabupaten Samosir",
+    "zone_code": "12.17",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Serdang Bedagai",
+    "kabupaten_kota": "Kabupaten Serdang Bedagai",
+    "zone_code": "12.18",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Batu Bara",
+    "kabupaten_kota": "Kabupaten Batu Bara",
+    "zone_code": "12.19",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Padang Lawas Utara",
+    "kabupaten_kota": "Kabupaten Padang Lawas Utara",
+    "zone_code": "12.20",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Padang Lawas",
+    "kabupaten_kota": "Kabupaten Padang Lawas",
+    "zone_code": "12.21",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Labuhanbatu Selatan",
+    "kabupaten_kota": "Kabupaten Labuhanbatu Selatan",
+    "zone_code": "12.22",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Labuhanbatu Utara",
+    "kabupaten_kota": "Kabupaten Labuhanbatu Utara",
+    "zone_code": "12.23",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Nias Utara",
+    "kabupaten_kota": "Kabupaten Nias Utara",
+    "zone_code": "12.24",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Nias Barat",
+    "kabupaten_kota": "Kabupaten Nias Barat",
+    "zone_code": "12.25",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Medan",
+    "kabupaten_kota": "Kota Medan",
+    "zone_code": "12.71",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Pematangsiantar",
+    "kabupaten_kota": "Kota Pematangsiantar",
+    "zone_code": "12.72",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Sibolga",
+    "kabupaten_kota": "Kota Sibolga",
+    "zone_code": "12.73",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Tanjungbalai",
+    "kabupaten_kota": "Kota Tanjungbalai",
+    "zone_code": "12.74",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Binjai",
+    "kabupaten_kota": "Kota Binjai",
+    "zone_code": "12.75",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Tebing Tinggi",
+    "kabupaten_kota": "Kota Tebing Tinggi",
+    "zone_code": "12.76",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Padangsidimpuan",
+    "kabupaten_kota": "Kota Padangsidimpuan",
+    "zone_code": "12.77",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kota Gunungsitoli",
+    "kabupaten_kota": "Kota Gunungsitoli",
+    "zone_code": "12.78",
+    "provinsi": "Sumatera Utara"
+  },
+  {
+    "name": "Kabupaten Pesisir Selatan",
+    "kabupaten_kota": "Kabupaten Pesisir Selatan",
+    "zone_code": "13.01",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Solok",
+    "kabupaten_kota": "Kabupaten Solok",
+    "zone_code": "13.02",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Sijunjung",
+    "kabupaten_kota": "Kabupaten Sijunjung",
+    "zone_code": "13.03",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Tanah Datar",
+    "kabupaten_kota": "Kabupaten Tanah Datar",
+    "zone_code": "13.04",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Padang Pariaman",
+    "kabupaten_kota": "Kabupaten Padang Pariaman",
+    "zone_code": "13.05",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Agam",
+    "kabupaten_kota": "Kabupaten Agam",
+    "zone_code": "13.06",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Lima Puluh Kota",
+    "kabupaten_kota": "Kabupaten Lima Puluh Kota",
+    "zone_code": "13.07",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Pasaman",
+    "kabupaten_kota": "Kabupaten Pasaman",
+    "zone_code": "13.08",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Kepulauan Mentawai",
+    "kabupaten_kota": "Kabupaten Kepulauan Mentawai",
+    "zone_code": "13.09",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Dharmasraya",
+    "kabupaten_kota": "Kabupaten Dharmasraya",
+    "zone_code": "13.10",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Solok Selatan",
+    "kabupaten_kota": "Kabupaten Solok Selatan",
+    "zone_code": "13.11",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Pasaman Barat",
+    "kabupaten_kota": "Kabupaten Pasaman Barat",
+    "zone_code": "13.12",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kota Padang",
+    "kabupaten_kota": "Kota Padang",
+    "zone_code": "13.71",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kota Solok",
+    "kabupaten_kota": "Kota Solok",
+    "zone_code": "13.72",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kota Sawahlunto",
+    "kabupaten_kota": "Kota Sawahlunto",
+    "zone_code": "13.73",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kota Padang Panjang",
+    "kabupaten_kota": "Kota Padang Panjang",
+    "zone_code": "13.74",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kota Bukittinggi",
+    "kabupaten_kota": "Kota Bukittinggi",
+    "zone_code": "13.75",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kota Payakumbuh",
+    "kabupaten_kota": "Kota Payakumbuh",
+    "zone_code": "13.76",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kota Pariaman",
+    "kabupaten_kota": "Kota Pariaman",
+    "zone_code": "13.77",
+    "provinsi": "Sumatera Barat"
+  },
+  {
+    "name": "Kabupaten Kampar",
+    "kabupaten_kota": "Kabupaten Kampar",
+    "zone_code": "14.01",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Indragiri Hulu",
+    "kabupaten_kota": "Kabupaten Indragiri Hulu",
+    "zone_code": "14.02",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Bengkalis",
+    "kabupaten_kota": "Kabupaten Bengkalis",
+    "zone_code": "14.03",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Indragiri Hilir",
+    "kabupaten_kota": "Kabupaten Indragiri Hilir",
+    "zone_code": "14.04",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Pelalawan",
+    "kabupaten_kota": "Kabupaten Pelalawan",
+    "zone_code": "14.05",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Rokan Hulu",
+    "kabupaten_kota": "Kabupaten Rokan Hulu",
+    "zone_code": "14.06",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Rokan Hilir",
+    "kabupaten_kota": "Kabupaten Rokan Hilir",
+    "zone_code": "14.07",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Siak",
+    "kabupaten_kota": "Kabupaten Siak",
+    "zone_code": "14.08",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Kuantan Singingi",
+    "kabupaten_kota": "Kabupaten Kuantan Singingi",
+    "zone_code": "14.09",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Kepulauan Meranti",
+    "kabupaten_kota": "Kabupaten Kepulauan Meranti",
+    "zone_code": "14.10",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kota Pekanbaru",
+    "kabupaten_kota": "Kota Pekanbaru",
+    "zone_code": "14.71",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kota Dumai",
+    "kabupaten_kota": "Kota Dumai",
+    "zone_code": "14.72",
+    "provinsi": "Riau"
+  },
+  {
+    "name": "Kabupaten Kerinci",
+    "kabupaten_kota": "Kabupaten Kerinci",
+    "zone_code": "15.01",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Merangin",
+    "kabupaten_kota": "Kabupaten Merangin",
+    "zone_code": "15.02",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Sarolangun",
+    "kabupaten_kota": "Kabupaten Sarolangun",
+    "zone_code": "15.03",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Batanghari",
+    "kabupaten_kota": "Kabupaten Batanghari",
+    "zone_code": "15.04",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Muaro Jambi",
+    "kabupaten_kota": "Kabupaten Muaro Jambi",
+    "zone_code": "15.05",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Tanjung Jabung Barat",
+    "kabupaten_kota": "Kabupaten Tanjung Jabung Barat",
+    "zone_code": "15.06",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Tanjung Jabung Timur",
+    "kabupaten_kota": "Kabupaten Tanjung Jabung Timur",
+    "zone_code": "15.07",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Bungo",
+    "kabupaten_kota": "Kabupaten Bungo",
+    "zone_code": "15.08",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Tebo",
+    "kabupaten_kota": "Kabupaten Tebo",
+    "zone_code": "15.09",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kota Jambi",
+    "kabupaten_kota": "Kota Jambi",
+    "zone_code": "15.71",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kota Sungai Penuh",
+    "kabupaten_kota": "Kota Sungai Penuh",
+    "zone_code": "15.72",
+    "provinsi": "Jambi"
+  },
+  {
+    "name": "Kabupaten Ogan Komering Ulu",
+    "kabupaten_kota": "Kabupaten Ogan Komering Ulu",
+    "zone_code": "16.01",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Ogan Komering Ilir",
+    "kabupaten_kota": "Kabupaten Ogan Komering Ilir",
+    "zone_code": "16.02",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Muara Enim",
+    "kabupaten_kota": "Kabupaten Muara Enim",
+    "zone_code": "16.03",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Lahat",
+    "kabupaten_kota": "Kabupaten Lahat",
+    "zone_code": "16.04",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Musi Rawas",
+    "kabupaten_kota": "Kabupaten Musi Rawas",
+    "zone_code": "16.05",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Musi Banyuasin",
+    "kabupaten_kota": "Kabupaten Musi Banyuasin",
+    "zone_code": "16.06",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Banyuasin",
+    "kabupaten_kota": "Kabupaten Banyuasin",
+    "zone_code": "16.07",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Ogan Komering Ulu Timur",
+    "kabupaten_kota": "Kabupaten Ogan Komering Ulu Timur",
+    "zone_code": "16.08",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Ogan Komering Ulu Selatan",
+    "kabupaten_kota": "Kabupaten Ogan Komering Ulu Selatan",
+    "zone_code": "16.09",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Ogan Ilir",
+    "kabupaten_kota": "Kabupaten Ogan Ilir",
+    "zone_code": "16.10",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Empat Lawang",
+    "kabupaten_kota": "Kabupaten Empat Lawang",
+    "zone_code": "16.11",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Penukal Abab Lematang Ilir",
+    "kabupaten_kota": "Kabupaten Penukal Abab Lematang Ilir",
+    "zone_code": "16.12",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Musi Rawas Utara",
+    "kabupaten_kota": "Kabupaten Musi Rawas Utara",
+    "zone_code": "16.13",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kota Palembang",
+    "kabupaten_kota": "Kota Palembang",
+    "zone_code": "16.71",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kota Pagar Alam",
+    "kabupaten_kota": "Kota Pagar Alam",
+    "zone_code": "16.72",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kota Lubuk Linggau",
+    "kabupaten_kota": "Kota Lubuk Linggau",
+    "zone_code": "16.73",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kota Prabumulih",
+    "kabupaten_kota": "Kota Prabumulih",
+    "zone_code": "16.74",
+    "provinsi": "Sumatera Selatan"
+  },
+  {
+    "name": "Kabupaten Bengkulu Selatan",
+    "kabupaten_kota": "Kabupaten Bengkulu Selatan",
+    "zone_code": "17.01",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Rejang Lebong",
+    "kabupaten_kota": "Kabupaten Rejang Lebong",
+    "zone_code": "17.02",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Bengkulu Utara",
+    "kabupaten_kota": "Kabupaten Bengkulu Utara",
+    "zone_code": "17.03",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Kaur",
+    "kabupaten_kota": "Kabupaten Kaur",
+    "zone_code": "17.04",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Seluma",
+    "kabupaten_kota": "Kabupaten Seluma",
+    "zone_code": "17.05",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Mukomuko",
+    "kabupaten_kota": "Kabupaten Mukomuko",
+    "zone_code": "17.06",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Lebong",
+    "kabupaten_kota": "Kabupaten Lebong",
+    "zone_code": "17.07",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Kepahiang",
+    "kabupaten_kota": "Kabupaten Kepahiang",
+    "zone_code": "17.08",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Bengkulu Tengah",
+    "kabupaten_kota": "Kabupaten Bengkulu Tengah",
+    "zone_code": "17.09",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kota Bengkulu",
+    "kabupaten_kota": "Kota Bengkulu",
+    "zone_code": "17.71",
+    "provinsi": "Bengkulu"
+  },
+  {
+    "name": "Kabupaten Lampung Selatan",
+    "kabupaten_kota": "Kabupaten Lampung Selatan",
+    "zone_code": "18.01",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Lampung Tengah",
+    "kabupaten_kota": "Kabupaten Lampung Tengah",
+    "zone_code": "18.02",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Lampung Utara",
+    "kabupaten_kota": "Kabupaten Lampung Utara",
+    "zone_code": "18.03",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Lampung Barat",
+    "kabupaten_kota": "Kabupaten Lampung Barat",
+    "zone_code": "18.04",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Tulang Bawang",
+    "kabupaten_kota": "Kabupaten Tulang Bawang",
+    "zone_code": "18.05",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Tanggamus",
+    "kabupaten_kota": "Kabupaten Tanggamus",
+    "zone_code": "18.06",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Lampung Timur",
+    "kabupaten_kota": "Kabupaten Lampung Timur",
+    "zone_code": "18.07",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Way Kanan",
+    "kabupaten_kota": "Kabupaten Way Kanan",
+    "zone_code": "18.08",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Pesawaran",
+    "kabupaten_kota": "Kabupaten Pesawaran",
+    "zone_code": "18.09",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Pringsewu",
+    "kabupaten_kota": "Kabupaten Pringsewu",
+    "zone_code": "18.10",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Mesuji",
+    "kabupaten_kota": "Kabupaten Mesuji",
+    "zone_code": "18.11",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Tulang Bawang Barat",
+    "kabupaten_kota": "Kabupaten Tulang Bawang Barat",
+    "zone_code": "18.12",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Pesisir Barat",
+    "kabupaten_kota": "Kabupaten Pesisir Barat",
+    "zone_code": "18.13",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kota Bandar Lampung",
+    "kabupaten_kota": "Kota Bandar Lampung",
+    "zone_code": "18.71",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kota Metro",
+    "kabupaten_kota": "Kota Metro",
+    "zone_code": "18.72",
+    "provinsi": "Lampung"
+  },
+  {
+    "name": "Kabupaten Bangka",
+    "kabupaten_kota": "Kabupaten Bangka",
+    "zone_code": "19.01",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "name": "Kabupaten Belitung",
+    "kabupaten_kota": "Kabupaten Belitung",
+    "zone_code": "19.02",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "name": "Kabupaten Bangka Selatan",
+    "kabupaten_kota": "Kabupaten Bangka Selatan",
+    "zone_code": "19.03",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "name": "Kabupaten Bangka Tengah",
+    "kabupaten_kota": "Kabupaten Bangka Tengah",
+    "zone_code": "19.04",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "name": "Kabupaten Bangka Barat",
+    "kabupaten_kota": "Kabupaten Bangka Barat",
+    "zone_code": "19.05",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "name": "Kabupaten Belitung Timur",
+    "kabupaten_kota": "Kabupaten Belitung Timur",
+    "zone_code": "19.06",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "name": "Kota Pangkal Pinang",
+    "kabupaten_kota": "Kota Pangkal Pinang",
+    "zone_code": "19.71",
+    "provinsi": "Kepulauan Bangka Belitung"
+  },
+  {
+    "name": "Kabupaten Bintan",
+    "kabupaten_kota": "Kabupaten Bintan",
+    "zone_code": "21.01",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "name": "Kabupaten Karimun",
+    "kabupaten_kota": "Kabupaten Karimun",
+    "zone_code": "21.02",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "name": "Kabupaten Natuna",
+    "kabupaten_kota": "Kabupaten Natuna",
+    "zone_code": "21.03",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "name": "Kabupaten Lingga",
+    "kabupaten_kota": "Kabupaten Lingga",
+    "zone_code": "21.04",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "name": "Kabupaten Kepulauan Anambas",
+    "kabupaten_kota": "Kabupaten Kepulauan Anambas",
+    "zone_code": "21.05",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "name": "Kota Batam",
+    "kabupaten_kota": "Kota Batam",
+    "zone_code": "21.71",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "name": "Kota Tanjung Pinang",
+    "kabupaten_kota": "Kota Tanjung Pinang",
+    "zone_code": "21.72",
+    "provinsi": "Kepulauan Riau"
+  },
+  {
+    "name": "Kabupaten Administrasi Kepulauan Seribu",
+    "kabupaten_kota": "Kabupaten Administrasi Kepulauan Seribu",
+    "zone_code": "31.01",
+    "provinsi": "Daerah Khusus Ibukota Jakarta"
+  },
+  {
+    "name": "Kota Administrasi Jakarta Pusat",
+    "kabupaten_kota": "Kota Administrasi Jakarta Pusat",
+    "zone_code": "31.71",
+    "provinsi": "Daerah Khusus Ibukota Jakarta"
+  },
+  {
+    "name": "Kota Administrasi Jakarta Utara",
+    "kabupaten_kota": "Kota Administrasi Jakarta Utara",
+    "zone_code": "31.72",
+    "provinsi": "Daerah Khusus Ibukota Jakarta"
+  },
+  {
+    "name": "Kota Administrasi Jakarta Barat",
+    "kabupaten_kota": "Kota Administrasi Jakarta Barat",
+    "zone_code": "31.73",
+    "provinsi": "Daerah Khusus Ibukota Jakarta"
+  },
+  {
+    "name": "Kota Administrasi Jakarta Selatan",
+    "kabupaten_kota": "Kota Administrasi Jakarta Selatan",
+    "zone_code": "31.74",
+    "provinsi": "Daerah Khusus Ibukota Jakarta"
+  },
+  {
+    "name": "Kota Administrasi Jakarta Timur",
+    "kabupaten_kota": "Kota Administrasi Jakarta Timur",
+    "zone_code": "31.75",
+    "provinsi": "Daerah Khusus Ibukota Jakarta"
+  },
+  {
+    "name": "Kabupaten Bogor",
+    "kabupaten_kota": "Kabupaten Bogor",
+    "zone_code": "32.01",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Sukabumi",
+    "kabupaten_kota": "Kabupaten Sukabumi",
+    "zone_code": "32.02",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Cianjur",
+    "kabupaten_kota": "Kabupaten Cianjur",
+    "zone_code": "32.03",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Bandung",
+    "kabupaten_kota": "Kabupaten Bandung",
+    "zone_code": "32.04",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Garut",
+    "kabupaten_kota": "Kabupaten Garut",
+    "zone_code": "32.05",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Tasikmalaya",
+    "kabupaten_kota": "Kabupaten Tasikmalaya",
+    "zone_code": "32.06",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Ciamis",
+    "kabupaten_kota": "Kabupaten Ciamis",
+    "zone_code": "32.07",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Kuningan",
+    "kabupaten_kota": "Kabupaten Kuningan",
+    "zone_code": "32.08",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Cirebon",
+    "kabupaten_kota": "Kabupaten Cirebon",
+    "zone_code": "32.09",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Majalengka",
+    "kabupaten_kota": "Kabupaten Majalengka",
+    "zone_code": "32.10",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Sumedang",
+    "kabupaten_kota": "Kabupaten Sumedang",
+    "zone_code": "32.11",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Indramayu",
+    "kabupaten_kota": "Kabupaten Indramayu",
+    "zone_code": "32.12",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Subang",
+    "kabupaten_kota": "Kabupaten Subang",
+    "zone_code": "32.13",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Purwakarta",
+    "kabupaten_kota": "Kabupaten Purwakarta",
+    "zone_code": "32.14",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Karawang",
+    "kabupaten_kota": "Kabupaten Karawang",
+    "zone_code": "32.15",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Bekasi",
+    "kabupaten_kota": "Kabupaten Bekasi",
+    "zone_code": "32.16",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Bandung Barat",
+    "kabupaten_kota": "Kabupaten Bandung Barat",
+    "zone_code": "32.17",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Pangandaran",
+    "kabupaten_kota": "Kabupaten Pangandaran",
+    "zone_code": "32.18",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Bogor",
+    "kabupaten_kota": "Kota Bogor",
+    "zone_code": "32.71",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Sukabumi",
+    "kabupaten_kota": "Kota Sukabumi",
+    "zone_code": "32.72",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Bandung",
+    "kabupaten_kota": "Kota Bandung",
+    "zone_code": "32.73",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Cirebon",
+    "kabupaten_kota": "Kota Cirebon",
+    "zone_code": "32.74",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Bekasi",
+    "kabupaten_kota": "Kota Bekasi",
+    "zone_code": "32.75",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Depok",
+    "kabupaten_kota": "Kota Depok",
+    "zone_code": "32.76",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Cimahi",
+    "kabupaten_kota": "Kota Cimahi",
+    "zone_code": "32.77",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Tasikmalaya",
+    "kabupaten_kota": "Kota Tasikmalaya",
+    "zone_code": "32.78",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kota Banjar",
+    "kabupaten_kota": "Kota Banjar",
+    "zone_code": "32.79",
+    "provinsi": "Jawa Barat"
+  },
+  {
+    "name": "Kabupaten Cilacap",
+    "kabupaten_kota": "Kabupaten Cilacap",
+    "zone_code": "33.01",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Banyumas",
+    "kabupaten_kota": "Kabupaten Banyumas",
+    "zone_code": "33.02",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Purbalingga",
+    "kabupaten_kota": "Kabupaten Purbalingga",
+    "zone_code": "33.03",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Banjarnegara",
+    "kabupaten_kota": "Kabupaten Banjarnegara",
+    "zone_code": "33.04",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Kebumen",
+    "kabupaten_kota": "Kabupaten Kebumen",
+    "zone_code": "33.05",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Purworejo",
+    "kabupaten_kota": "Kabupaten Purworejo",
+    "zone_code": "33.06",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Wonosobo",
+    "kabupaten_kota": "Kabupaten Wonosobo",
+    "zone_code": "33.07",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Magelang",
+    "kabupaten_kota": "Kabupaten Magelang",
+    "zone_code": "33.08",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Boyolali",
+    "kabupaten_kota": "Kabupaten Boyolali",
+    "zone_code": "33.09",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Klaten",
+    "kabupaten_kota": "Kabupaten Klaten",
+    "zone_code": "33.10",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Sukoharjo",
+    "kabupaten_kota": "Kabupaten Sukoharjo",
+    "zone_code": "33.11",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Wonogiri",
+    "kabupaten_kota": "Kabupaten Wonogiri",
+    "zone_code": "33.12",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Karanganyar",
+    "kabupaten_kota": "Kabupaten Karanganyar",
+    "zone_code": "33.13",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Sragen",
+    "kabupaten_kota": "Kabupaten Sragen",
+    "zone_code": "33.14",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Grobogan",
+    "kabupaten_kota": "Kabupaten Grobogan",
+    "zone_code": "33.15",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Blora",
+    "kabupaten_kota": "Kabupaten Blora",
+    "zone_code": "33.16",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Rembang",
+    "kabupaten_kota": "Kabupaten Rembang",
+    "zone_code": "33.17",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Pati",
+    "kabupaten_kota": "Kabupaten Pati",
+    "zone_code": "33.18",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Kudus",
+    "kabupaten_kota": "Kabupaten Kudus",
+    "zone_code": "33.19",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Jepara",
+    "kabupaten_kota": "Kabupaten Jepara",
+    "zone_code": "33.20",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Demak",
+    "kabupaten_kota": "Kabupaten Demak",
+    "zone_code": "33.21",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Semarang",
+    "kabupaten_kota": "Kabupaten Semarang",
+    "zone_code": "33.22",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Temanggung",
+    "kabupaten_kota": "Kabupaten Temanggung",
+    "zone_code": "33.23",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Kendal",
+    "kabupaten_kota": "Kabupaten Kendal",
+    "zone_code": "33.24",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Batang",
+    "kabupaten_kota": "Kabupaten Batang",
+    "zone_code": "33.25",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Pekalongan",
+    "kabupaten_kota": "Kabupaten Pekalongan",
+    "zone_code": "33.26",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Pemalang",
+    "kabupaten_kota": "Kabupaten Pemalang",
+    "zone_code": "33.27",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Tegal",
+    "kabupaten_kota": "Kabupaten Tegal",
+    "zone_code": "33.28",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Brebes",
+    "kabupaten_kota": "Kabupaten Brebes",
+    "zone_code": "33.29",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kota Magelang",
+    "kabupaten_kota": "Kota Magelang",
+    "zone_code": "33.71",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kota Surakarta",
+    "kabupaten_kota": "Kota Surakarta",
+    "zone_code": "33.72",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kota Salatiga",
+    "kabupaten_kota": "Kota Salatiga",
+    "zone_code": "33.73",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kota Semarang",
+    "kabupaten_kota": "Kota Semarang",
+    "zone_code": "33.74",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kota Pekalongan",
+    "kabupaten_kota": "Kota Pekalongan",
+    "zone_code": "33.75",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kota Tegal",
+    "kabupaten_kota": "Kota Tegal",
+    "zone_code": "33.76",
+    "provinsi": "Jawa Tengah"
+  },
+  {
+    "name": "Kabupaten Kulon Progo",
+    "kabupaten_kota": "Kabupaten Kulon Progo",
+    "zone_code": "34.01",
+    "provinsi": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "name": "Kabupaten Bantul",
+    "kabupaten_kota": "Kabupaten Bantul",
+    "zone_code": "34.02",
+    "provinsi": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "name": "Kabupaten Gunungkidul",
+    "kabupaten_kota": "Kabupaten Gunungkidul",
+    "zone_code": "34.03",
+    "provinsi": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "name": "Kabupaten Sleman",
+    "kabupaten_kota": "Kabupaten Sleman",
+    "zone_code": "34.04",
+    "provinsi": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "name": "Kota Yogyakarta",
+    "kabupaten_kota": "Kota Yogyakarta",
+    "zone_code": "34.71",
+    "provinsi": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "name": "Kabupaten Pacitan",
+    "kabupaten_kota": "Kabupaten Pacitan",
+    "zone_code": "35.01",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Ponorogo",
+    "kabupaten_kota": "Kabupaten Ponorogo",
+    "zone_code": "35.02",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Trenggalek",
+    "kabupaten_kota": "Kabupaten Trenggalek",
+    "zone_code": "35.03",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Tulungagung",
+    "kabupaten_kota": "Kabupaten Tulungagung",
+    "zone_code": "35.04",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Blitar",
+    "kabupaten_kota": "Kabupaten Blitar",
+    "zone_code": "35.05",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Kediri",
+    "kabupaten_kota": "Kabupaten Kediri",
+    "zone_code": "35.06",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Malang",
+    "kabupaten_kota": "Kabupaten Malang",
+    "zone_code": "35.07",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Lumajang",
+    "kabupaten_kota": "Kabupaten Lumajang",
+    "zone_code": "35.08",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Jember",
+    "kabupaten_kota": "Kabupaten Jember",
+    "zone_code": "35.09",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Banyuwangi",
+    "kabupaten_kota": "Kabupaten Banyuwangi",
+    "zone_code": "35.10",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Bondowoso",
+    "kabupaten_kota": "Kabupaten Bondowoso",
+    "zone_code": "35.11",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Situbondo",
+    "kabupaten_kota": "Kabupaten Situbondo",
+    "zone_code": "35.12",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Probolinggo",
+    "kabupaten_kota": "Kabupaten Probolinggo",
+    "zone_code": "35.13",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Pasuruan",
+    "kabupaten_kota": "Kabupaten Pasuruan",
+    "zone_code": "35.14",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Sidoarjo",
+    "kabupaten_kota": "Kabupaten Sidoarjo",
+    "zone_code": "35.15",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Mojokerto",
+    "kabupaten_kota": "Kabupaten Mojokerto",
+    "zone_code": "35.16",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Jombang",
+    "kabupaten_kota": "Kabupaten Jombang",
+    "zone_code": "35.17",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Nganjuk",
+    "kabupaten_kota": "Kabupaten Nganjuk",
+    "zone_code": "35.18",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Madiun",
+    "kabupaten_kota": "Kabupaten Madiun",
+    "zone_code": "35.19",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Magetan",
+    "kabupaten_kota": "Kabupaten Magetan",
+    "zone_code": "35.20",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Ngawi",
+    "kabupaten_kota": "Kabupaten Ngawi",
+    "zone_code": "35.21",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Bojonegoro",
+    "kabupaten_kota": "Kabupaten Bojonegoro",
+    "zone_code": "35.22",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Tuban",
+    "kabupaten_kota": "Kabupaten Tuban",
+    "zone_code": "35.23",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Lamongan",
+    "kabupaten_kota": "Kabupaten Lamongan",
+    "zone_code": "35.24",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Gresik",
+    "kabupaten_kota": "Kabupaten Gresik",
+    "zone_code": "35.25",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Bangkalan",
+    "kabupaten_kota": "Kabupaten Bangkalan",
+    "zone_code": "35.26",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Sampang",
+    "kabupaten_kota": "Kabupaten Sampang",
+    "zone_code": "35.27",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Pamekasan",
+    "kabupaten_kota": "Kabupaten Pamekasan",
+    "zone_code": "35.28",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Sumenep",
+    "kabupaten_kota": "Kabupaten Sumenep",
+    "zone_code": "35.29",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Kediri",
+    "kabupaten_kota": "Kota Kediri",
+    "zone_code": "35.71",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Blitar",
+    "kabupaten_kota": "Kota Blitar",
+    "zone_code": "35.72",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Malang",
+    "kabupaten_kota": "Kota Malang",
+    "zone_code": "35.73",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Probolinggo",
+    "kabupaten_kota": "Kota Probolinggo",
+    "zone_code": "35.74",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Pasuruan",
+    "kabupaten_kota": "Kota Pasuruan",
+    "zone_code": "35.75",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Mojokerto",
+    "kabupaten_kota": "Kota Mojokerto",
+    "zone_code": "35.76",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Madiun",
+    "kabupaten_kota": "Kota Madiun",
+    "zone_code": "35.77",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Surabaya",
+    "kabupaten_kota": "Kota Surabaya",
+    "zone_code": "35.78",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kota Batu",
+    "kabupaten_kota": "Kota Batu",
+    "zone_code": "35.79",
+    "provinsi": "Jawa Timur"
+  },
+  {
+    "name": "Kabupaten Pandeglang",
+    "kabupaten_kota": "Kabupaten Pandeglang",
+    "zone_code": "36.01",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kabupaten Lebak",
+    "kabupaten_kota": "Kabupaten Lebak",
+    "zone_code": "36.02",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kabupaten Tangerang",
+    "kabupaten_kota": "Kabupaten Tangerang",
+    "zone_code": "36.03",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kabupaten Serang",
+    "kabupaten_kota": "Kabupaten Serang",
+    "zone_code": "36.04",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kota Tangerang",
+    "kabupaten_kota": "Kota Tangerang",
+    "zone_code": "36.71",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kota Cilegon",
+    "kabupaten_kota": "Kota Cilegon",
+    "zone_code": "36.72",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kota Serang",
+    "kabupaten_kota": "Kota Serang",
+    "zone_code": "36.73",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kota Tangerang Selatan",
+    "kabupaten_kota": "Kota Tangerang Selatan",
+    "zone_code": "36.74",
+    "provinsi": "Banten"
+  },
+  {
+    "name": "Kabupaten Jembrana",
+    "kabupaten_kota": "Kabupaten Jembrana",
+    "zone_code": "51.01",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Tabanan",
+    "kabupaten_kota": "Kabupaten Tabanan",
+    "zone_code": "51.02",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Badung",
+    "kabupaten_kota": "Kabupaten Badung",
+    "zone_code": "51.03",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Gianyar",
+    "kabupaten_kota": "Kabupaten Gianyar",
+    "zone_code": "51.04",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Klungkung",
+    "kabupaten_kota": "Kabupaten Klungkung",
+    "zone_code": "51.05",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Bangli",
+    "kabupaten_kota": "Kabupaten Bangli",
+    "zone_code": "51.06",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Karangasem",
+    "kabupaten_kota": "Kabupaten Karangasem",
+    "zone_code": "51.07",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Buleleng",
+    "kabupaten_kota": "Kabupaten Buleleng",
+    "zone_code": "51.08",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kota Denpasar",
+    "kabupaten_kota": "Kota Denpasar",
+    "zone_code": "51.71",
+    "provinsi": "Bali"
+  },
+  {
+    "name": "Kabupaten Lombok Barat",
+    "kabupaten_kota": "Kabupaten Lombok Barat",
+    "zone_code": "52.01",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Lombok Tengah",
+    "kabupaten_kota": "Kabupaten Lombok Tengah",
+    "zone_code": "52.02",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Lombok Timur",
+    "kabupaten_kota": "Kabupaten Lombok Timur",
+    "zone_code": "52.03",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Sumbawa",
+    "kabupaten_kota": "Kabupaten Sumbawa",
+    "zone_code": "52.04",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Dompu",
+    "kabupaten_kota": "Kabupaten Dompu",
+    "zone_code": "52.05",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Bima",
+    "kabupaten_kota": "Kabupaten Bima",
+    "zone_code": "52.06",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Sumbawa Barat",
+    "kabupaten_kota": "Kabupaten Sumbawa Barat",
+    "zone_code": "52.07",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Lombok Utara",
+    "kabupaten_kota": "Kabupaten Lombok Utara",
+    "zone_code": "52.08",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kota Mataram",
+    "kabupaten_kota": "Kota Mataram",
+    "zone_code": "52.71",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kota Bima",
+    "kabupaten_kota": "Kota Bima",
+    "zone_code": "52.72",
+    "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Kabupaten Kupang",
+    "kabupaten_kota": "Kabupaten Kupang",
+    "zone_code": "53.01",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kab Timor Tengah Selatan",
+    "kabupaten_kota": "Kab Timor Tengah Selatan",
+    "zone_code": "53.02",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Timor Tengah Utara",
+    "kabupaten_kota": "Kabupaten Timor Tengah Utara",
+    "zone_code": "53.03",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Belu",
+    "kabupaten_kota": "Kabupaten Belu",
+    "zone_code": "53.04",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Alor",
+    "kabupaten_kota": "Kabupaten Alor",
+    "zone_code": "53.05",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Flores Timur",
+    "kabupaten_kota": "Kabupaten Flores Timur",
+    "zone_code": "53.06",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Sikka",
+    "kabupaten_kota": "Kabupaten Sikka",
+    "zone_code": "53.07",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Ende",
+    "kabupaten_kota": "Kabupaten Ende",
+    "zone_code": "53.08",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Ngada",
+    "kabupaten_kota": "Kabupaten Ngada",
+    "zone_code": "53.09",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Manggarai",
+    "kabupaten_kota": "Kabupaten Manggarai",
+    "zone_code": "53.10",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Sumba Timur",
+    "kabupaten_kota": "Kabupaten Sumba Timur",
+    "zone_code": "53.11",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Sumba Barat",
+    "kabupaten_kota": "Kabupaten Sumba Barat",
+    "zone_code": "53.12",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Lembata",
+    "kabupaten_kota": "Kabupaten Lembata",
+    "zone_code": "53.13",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Rote Ndao",
+    "kabupaten_kota": "Kabupaten Rote Ndao",
+    "zone_code": "53.14",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Manggarai Barat",
+    "kabupaten_kota": "Kabupaten Manggarai Barat",
+    "zone_code": "53.15",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Nagekeo",
+    "kabupaten_kota": "Kabupaten Nagekeo",
+    "zone_code": "53.16",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Sumba Tengah",
+    "kabupaten_kota": "Kabupaten Sumba Tengah",
+    "zone_code": "53.17",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Sumba Barat Daya",
+    "kabupaten_kota": "Kabupaten Sumba Barat Daya",
+    "zone_code": "53.18",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Manggarai Timur",
+    "kabupaten_kota": "Kabupaten Manggarai Timur",
+    "zone_code": "53.19",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Sabu Raijua",
+    "kabupaten_kota": "Kabupaten Sabu Raijua",
+    "zone_code": "53.20",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Malaka",
+    "kabupaten_kota": "Kabupaten Malaka",
+    "zone_code": "53.21",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kota Kupang",
+    "kabupaten_kota": "Kota Kupang",
+    "zone_code": "53.71",
+    "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "Kabupaten Sambas",
+    "kabupaten_kota": "Kabupaten Sambas",
+    "zone_code": "61.01",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Mempawah",
+    "kabupaten_kota": "Kabupaten Mempawah",
+    "zone_code": "61.02",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Sanggau",
+    "kabupaten_kota": "Kabupaten Sanggau",
+    "zone_code": "61.03",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Ketapang",
+    "kabupaten_kota": "Kabupaten Ketapang",
+    "zone_code": "61.04",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Sintang",
+    "kabupaten_kota": "Kabupaten Sintang",
+    "zone_code": "61.05",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Kapuas Hulu",
+    "kabupaten_kota": "Kabupaten Kapuas Hulu",
+    "zone_code": "61.06",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Bengkayang",
+    "kabupaten_kota": "Kabupaten Bengkayang",
+    "zone_code": "61.07",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Landak",
+    "kabupaten_kota": "Kabupaten Landak",
+    "zone_code": "61.08",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Sekadau",
+    "kabupaten_kota": "Kabupaten Sekadau",
+    "zone_code": "61.09",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Melawi",
+    "kabupaten_kota": "Kabupaten Melawi",
+    "zone_code": "61.10",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Kayong Utara",
+    "kabupaten_kota": "Kabupaten Kayong Utara",
+    "zone_code": "61.11",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Kubu Raya",
+    "kabupaten_kota": "Kabupaten Kubu Raya",
+    "zone_code": "61.12",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kota Pontianak",
+    "kabupaten_kota": "Kota Pontianak",
+    "zone_code": "61.71",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kota Singkawang",
+    "kabupaten_kota": "Kota Singkawang",
+    "zone_code": "61.72",
+    "provinsi": "Kalimantan Barat"
+  },
+  {
+    "name": "Kabupaten Kotawaringin Barat",
+    "kabupaten_kota": "Kabupaten Kotawaringin Barat",
+    "zone_code": "62.01",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Kotawaringin Timur",
+    "kabupaten_kota": "Kabupaten Kotawaringin Timur",
+    "zone_code": "62.02",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Kapuas",
+    "kabupaten_kota": "Kabupaten Kapuas",
+    "zone_code": "62.03",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Barito Selatan",
+    "kabupaten_kota": "Kabupaten Barito Selatan",
+    "zone_code": "62.04",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Barito Utara",
+    "kabupaten_kota": "Kabupaten Barito Utara",
+    "zone_code": "62.05",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Katingan",
+    "kabupaten_kota": "Kabupaten Katingan",
+    "zone_code": "62.06",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Seruyan",
+    "kabupaten_kota": "Kabupaten Seruyan",
+    "zone_code": "62.07",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Sukamara",
+    "kabupaten_kota": "Kabupaten Sukamara",
+    "zone_code": "62.08",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Lamandau",
+    "kabupaten_kota": "Kabupaten Lamandau",
+    "zone_code": "62.09",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Gunung Mas",
+    "kabupaten_kota": "Kabupaten Gunung Mas",
+    "zone_code": "62.10",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Pulang Pisau",
+    "kabupaten_kota": "Kabupaten Pulang Pisau",
+    "zone_code": "62.11",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Murung Raya",
+    "kabupaten_kota": "Kabupaten Murung Raya",
+    "zone_code": "62.12",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Barito Timur",
+    "kabupaten_kota": "Kabupaten Barito Timur",
+    "zone_code": "62.13",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kota Palangkaraya",
+    "kabupaten_kota": "Kota Palangkaraya",
+    "zone_code": "62.71",
+    "provinsi": "Kalimantan Tengah"
+  },
+  {
+    "name": "Kabupaten Tanah Laut",
+    "kabupaten_kota": "Kabupaten Tanah Laut",
+    "zone_code": "63.01",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Kotabaru",
+    "kabupaten_kota": "Kabupaten Kotabaru",
+    "zone_code": "63.02",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Banjar",
+    "kabupaten_kota": "Kabupaten Banjar",
+    "zone_code": "63.03",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Barito Kuala",
+    "kabupaten_kota": "Kabupaten Barito Kuala",
+    "zone_code": "63.04",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Tapin",
+    "kabupaten_kota": "Kabupaten Tapin",
+    "zone_code": "63.05",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Hulu Sungai Selatan",
+    "kabupaten_kota": "Kabupaten Hulu Sungai Selatan",
+    "zone_code": "63.06",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Hulu Sungai Tengah",
+    "kabupaten_kota": "Kabupaten Hulu Sungai Tengah",
+    "zone_code": "63.07",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Hulu Sungai Utara",
+    "kabupaten_kota": "Kabupaten Hulu Sungai Utara",
+    "zone_code": "63.08",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Tabalong",
+    "kabupaten_kota": "Kabupaten Tabalong",
+    "zone_code": "63.09",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Tanah Bumbu",
+    "kabupaten_kota": "Kabupaten Tanah Bumbu",
+    "zone_code": "63.10",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Balangan",
+    "kabupaten_kota": "Kabupaten Balangan",
+    "zone_code": "63.11",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kota Banjarmasin",
+    "kabupaten_kota": "Kota Banjarmasin",
+    "zone_code": "63.71",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kota Banjarbaru",
+    "kabupaten_kota": "Kota Banjarbaru",
+    "zone_code": "63.72",
+    "provinsi": "Kalimantan Selatan"
+  },
+  {
+    "name": "Kabupaten Paser",
+    "kabupaten_kota": "Kabupaten Paser",
+    "zone_code": "64.01",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kabupaten Kutai Kartanegara",
+    "kabupaten_kota": "Kabupaten Kutai Kartanegara",
+    "zone_code": "64.02",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kabupaten Berau",
+    "kabupaten_kota": "Kabupaten Berau",
+    "zone_code": "64.03",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kabupaten Kutai Barat",
+    "kabupaten_kota": "Kabupaten Kutai Barat",
+    "zone_code": "64.07",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kabupaten Kutai Timur",
+    "kabupaten_kota": "Kabupaten Kutai Timur",
+    "zone_code": "64.08",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kabupaten Penajam Paser Utara",
+    "kabupaten_kota": "Kabupaten Penajam Paser Utara",
+    "zone_code": "64.09",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kabupaten Mahakam Ulu",
+    "kabupaten_kota": "Kabupaten Mahakam Ulu",
+    "zone_code": "64.11",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kota Balikpapan",
+    "kabupaten_kota": "Kota Balikpapan",
+    "zone_code": "64.71",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kota Samarinda",
+    "kabupaten_kota": "Kota Samarinda",
+    "zone_code": "64.72",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kota Bontang",
+    "kabupaten_kota": "Kota Bontang",
+    "zone_code": "64.74",
+    "provinsi": "Kalimantan Timur"
+  },
+  {
+    "name": "Kabupaten Bulungan",
+    "kabupaten_kota": "Kabupaten Bulungan",
+    "zone_code": "65.01",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "name": "Kabupaten Malinau",
+    "kabupaten_kota": "Kabupaten Malinau",
+    "zone_code": "65.02",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "name": "Kabupaten Nunukan",
+    "kabupaten_kota": "Kabupaten Nunukan",
+    "zone_code": "65.03",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "name": "Kabupaten Tana Tidung",
+    "kabupaten_kota": "Kabupaten Tana Tidung",
+    "zone_code": "65.04",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "name": "Kota Tarakan",
+    "kabupaten_kota": "Kota Tarakan",
+    "zone_code": "65.71",
+    "provinsi": "Kalimantan Utara"
+  },
+  {
+    "name": "Kabupaten Bolaang Mongondow",
+    "kabupaten_kota": "Kabupaten Bolaang Mongondow",
+    "zone_code": "71.01",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Minahasa",
+    "kabupaten_kota": "Kabupaten Minahasa",
+    "zone_code": "71.02",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Kepulauan Sangihe",
+    "kabupaten_kota": "Kabupaten Kepulauan Sangihe",
+    "zone_code": "71.03",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Kepulauan Talaud",
+    "kabupaten_kota": "Kabupaten Kepulauan Talaud",
+    "zone_code": "71.04",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Minahasa Selatan",
+    "kabupaten_kota": "Kabupaten Minahasa Selatan",
+    "zone_code": "71.05",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Minahasa Utara",
+    "kabupaten_kota": "Kabupaten Minahasa Utara",
+    "zone_code": "71.06",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Minahasa Tenggara",
+    "kabupaten_kota": "Kabupaten Minahasa Tenggara",
+    "zone_code": "71.07",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Bolaang Mongondow Utara",
+    "kabupaten_kota": "Kabupaten Bolaang Mongondow Utara",
+    "zone_code": "71.08",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Kep. Siau Tagulandang Biaro",
+    "kabupaten_kota": "Kabupaten Kep. Siau Tagulandang Biaro",
+    "zone_code": "71.09",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Bolaang Mongondow Timur",
+    "kabupaten_kota": "Kabupaten Bolaang Mongondow Timur",
+    "zone_code": "71.10",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Bolaang Mongondow Selatan",
+    "kabupaten_kota": "Kabupaten Bolaang Mongondow Selatan",
+    "zone_code": "71.11",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kota Manado",
+    "kabupaten_kota": "Kota Manado",
+    "zone_code": "71.71",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kota Bitung",
+    "kabupaten_kota": "Kota Bitung",
+    "zone_code": "71.72",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kota Tomohon",
+    "kabupaten_kota": "Kota Tomohon",
+    "zone_code": "71.73",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kota Kotamobagu",
+    "kabupaten_kota": "Kota Kotamobagu",
+    "zone_code": "71.74",
+    "provinsi": "Sulawesi Utara"
+  },
+  {
+    "name": "Kabupaten Banggai",
+    "kabupaten_kota": "Kabupaten Banggai",
+    "zone_code": "72.01",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Poso",
+    "kabupaten_kota": "Kabupaten Poso",
+    "zone_code": "72.02",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Donggala",
+    "kabupaten_kota": "Kabupaten Donggala",
+    "zone_code": "72.03",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Toli-Toli",
+    "kabupaten_kota": "Kabupaten Toli-Toli",
+    "zone_code": "72.04",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Buol",
+    "kabupaten_kota": "Kabupaten Buol",
+    "zone_code": "72.05",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Morowali",
+    "kabupaten_kota": "Kabupaten Morowali",
+    "zone_code": "72.06",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Banggai Kepulauan",
+    "kabupaten_kota": "Kabupaten Banggai Kepulauan",
+    "zone_code": "72.07",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Parigi Moutong",
+    "kabupaten_kota": "Kabupaten Parigi Moutong",
+    "zone_code": "72.08",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Tojo Una Una",
+    "kabupaten_kota": "Kabupaten Tojo Una Una",
+    "zone_code": "72.09",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Sigi",
+    "kabupaten_kota": "Kabupaten Sigi",
+    "zone_code": "72.10",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Banggai Laut",
+    "kabupaten_kota": "Kabupaten Banggai Laut",
+    "zone_code": "72.11",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Morowali Utara",
+    "kabupaten_kota": "Kabupaten Morowali Utara",
+    "zone_code": "72.12",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kota Palu",
+    "kabupaten_kota": "Kota Palu",
+    "zone_code": "72.71",
+    "provinsi": "Sulawesi Tengah"
+  },
+  {
+    "name": "Kabupaten Kepulauan Selayar",
+    "kabupaten_kota": "Kabupaten Kepulauan Selayar",
+    "zone_code": "73.01",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Bulukumba",
+    "kabupaten_kota": "Kabupaten Bulukumba",
+    "zone_code": "73.02",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Bantaeng",
+    "kabupaten_kota": "Kabupaten Bantaeng",
+    "zone_code": "73.03",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Jeneponto",
+    "kabupaten_kota": "Kabupaten Jeneponto",
+    "zone_code": "73.04",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Takalar",
+    "kabupaten_kota": "Kabupaten Takalar",
+    "zone_code": "73.05",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Gowa",
+    "kabupaten_kota": "Kabupaten Gowa",
+    "zone_code": "73.06",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Sinjai",
+    "kabupaten_kota": "Kabupaten Sinjai",
+    "zone_code": "73.07",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Bone",
+    "kabupaten_kota": "Kabupaten Bone",
+    "zone_code": "73.08",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Maros",
+    "kabupaten_kota": "Kabupaten Maros",
+    "zone_code": "73.09",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Pangkajene dan Kepulauan",
+    "kabupaten_kota": "Kabupaten Pangkajene dan Kepulauan",
+    "zone_code": "73.10",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Barru",
+    "kabupaten_kota": "Kabupaten Barru",
+    "zone_code": "73.11",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Soppeng",
+    "kabupaten_kota": "Kabupaten Soppeng",
+    "zone_code": "73.12",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Wajo",
+    "kabupaten_kota": "Kabupaten Wajo",
+    "zone_code": "73.13",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Sidenreng Rappang",
+    "kabupaten_kota": "Kabupaten Sidenreng Rappang",
+    "zone_code": "73.14",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Pinrang",
+    "kabupaten_kota": "Kabupaten Pinrang",
+    "zone_code": "73.15",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Enrekang",
+    "kabupaten_kota": "Kabupaten Enrekang",
+    "zone_code": "73.16",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Luwu",
+    "kabupaten_kota": "Kabupaten Luwu",
+    "zone_code": "73.17",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Tana Toraja",
+    "kabupaten_kota": "Kabupaten Tana Toraja",
+    "zone_code": "73.18",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Luwu Utara",
+    "kabupaten_kota": "Kabupaten Luwu Utara",
+    "zone_code": "73.22",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Luwu Timur",
+    "kabupaten_kota": "Kabupaten Luwu Timur",
+    "zone_code": "73.24",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Toraja Utara",
+    "kabupaten_kota": "Kabupaten Toraja Utara",
+    "zone_code": "73.26",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kota Makassar",
+    "kabupaten_kota": "Kota Makassar",
+    "zone_code": "73.71",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kota Parepare",
+    "kabupaten_kota": "Kota Parepare",
+    "zone_code": "73.72",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kota Palopo",
+    "kabupaten_kota": "Kota Palopo",
+    "zone_code": "73.73",
+    "provinsi": "Sulawesi Selatan"
+  },
+  {
+    "name": "Kabupaten Kolaka",
+    "kabupaten_kota": "Kabupaten Kolaka",
+    "zone_code": "74.01",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Konawe",
+    "kabupaten_kota": "Kabupaten Konawe",
+    "zone_code": "74.02",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Muna",
+    "kabupaten_kota": "Kabupaten Muna",
+    "zone_code": "74.03",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Buton",
+    "kabupaten_kota": "Kabupaten Buton",
+    "zone_code": "74.04",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Konawe Selatan",
+    "kabupaten_kota": "Kabupaten Konawe Selatan",
+    "zone_code": "74.05",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Bombana",
+    "kabupaten_kota": "Kabupaten Bombana",
+    "zone_code": "74.06",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Wakatobi",
+    "kabupaten_kota": "Kabupaten Wakatobi",
+    "zone_code": "74.07",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Kolaka Utara",
+    "kabupaten_kota": "Kabupaten Kolaka Utara",
+    "zone_code": "74.08",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Konawe Utara",
+    "kabupaten_kota": "Kabupaten Konawe Utara",
+    "zone_code": "74.09",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Buton Utara",
+    "kabupaten_kota": "Kabupaten Buton Utara",
+    "zone_code": "74.10",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Kolaka Timur",
+    "kabupaten_kota": "Kabupaten Kolaka Timur",
+    "zone_code": "74.11",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Konawe Kepulauan",
+    "kabupaten_kota": "Kabupaten Konawe Kepulauan",
+    "zone_code": "74.12",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Muna Barat",
+    "kabupaten_kota": "Kabupaten Muna Barat",
+    "zone_code": "74.13",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Buton Tengah",
+    "kabupaten_kota": "Kabupaten Buton Tengah",
+    "zone_code": "74.14",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Buton Selatan",
+    "kabupaten_kota": "Kabupaten Buton Selatan",
+    "zone_code": "74.15",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kota Kendari",
+    "kabupaten_kota": "Kota Kendari",
+    "zone_code": "74.71",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kota Bau Bau",
+    "kabupaten_kota": "Kota Bau Bau",
+    "zone_code": "74.72",
+    "provinsi": "Sulawesi Tenggara"
+  },
+  {
+    "name": "Kabupaten Gorontalo",
+    "kabupaten_kota": "Kabupaten Gorontalo",
+    "zone_code": "75.01",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "name": "Kabupaten Boalemo",
+    "kabupaten_kota": "Kabupaten Boalemo",
+    "zone_code": "75.02",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "name": "Kabupaten Bone Bolango",
+    "kabupaten_kota": "Kabupaten Bone Bolango",
+    "zone_code": "75.03",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "name": "Kabupaten Pohuwato",
+    "kabupaten_kota": "Kabupaten Pohuwato",
+    "zone_code": "75.04",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "name": "Kabupaten Gorontalo Utara",
+    "kabupaten_kota": "Kabupaten Gorontalo Utara",
+    "zone_code": "75.05",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "name": "Kota Gorontalo",
+    "kabupaten_kota": "Kota Gorontalo",
+    "zone_code": "75.71",
+    "provinsi": "Gorontalo"
+  },
+  {
+    "name": "Kabupaten Pasangkayu",
+    "kabupaten_kota": "Kabupaten Pasangkayu",
+    "zone_code": "76.01",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "name": "Kabupaten Mamuju",
+    "kabupaten_kota": "Kabupaten Mamuju",
+    "zone_code": "76.02",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "name": "Kabupaten Mamasa",
+    "kabupaten_kota": "Kabupaten Mamasa",
+    "zone_code": "76.03",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "name": "Kabupaten Polewali Mandar",
+    "kabupaten_kota": "Kabupaten Polewali Mandar",
+    "zone_code": "76.04",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "name": "Kabupaten Majene",
+    "kabupaten_kota": "Kabupaten Majene",
+    "zone_code": "76.05",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "name": "Kabupaten Mamuju Tengah",
+    "kabupaten_kota": "Kabupaten Mamuju Tengah",
+    "zone_code": "76.06",
+    "provinsi": "Sulawesi Barat"
+  },
+  {
+    "name": "Kabupaten Maluku Tengah",
+    "kabupaten_kota": "Kabupaten Maluku Tengah",
+    "zone_code": "81.01",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Maluku Tenggara",
+    "kabupaten_kota": "Kabupaten Maluku Tenggara",
+    "zone_code": "81.02",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Kepulauan Tanimbar",
+    "kabupaten_kota": "Kabupaten Kepulauan Tanimbar",
+    "zone_code": "81.03",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Buru",
+    "kabupaten_kota": "Kabupaten Buru",
+    "zone_code": "81.04",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Seram Bagian Timur",
+    "kabupaten_kota": "Kabupaten Seram Bagian Timur",
+    "zone_code": "81.05",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Seram Bagian Barat",
+    "kabupaten_kota": "Kabupaten Seram Bagian Barat",
+    "zone_code": "81.06",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Kepulauan Aru",
+    "kabupaten_kota": "Kabupaten Kepulauan Aru",
+    "zone_code": "81.07",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Maluku Barat Daya",
+    "kabupaten_kota": "Kabupaten Maluku Barat Daya",
+    "zone_code": "81.08",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Buru Selatan",
+    "kabupaten_kota": "Kabupaten Buru Selatan",
+    "zone_code": "81.09",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kota Ambon",
+    "kabupaten_kota": "Kota Ambon",
+    "zone_code": "81.71",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kota Tual",
+    "kabupaten_kota": "Kota Tual",
+    "zone_code": "81.72",
+    "provinsi": "Maluku"
+  },
+  {
+    "name": "Kabupaten Halmahera Barat",
+    "kabupaten_kota": "Kabupaten Halmahera Barat",
+    "zone_code": "82.01",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Halmahera Tengah",
+    "kabupaten_kota": "Kabupaten Halmahera Tengah",
+    "zone_code": "82.02",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Halmahera Utara",
+    "kabupaten_kota": "Kabupaten Halmahera Utara",
+    "zone_code": "82.03",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Halmahera Selatan",
+    "kabupaten_kota": "Kabupaten Halmahera Selatan",
+    "zone_code": "82.04",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Kepulauan Sula",
+    "kabupaten_kota": "Kabupaten Kepulauan Sula",
+    "zone_code": "82.05",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Halmahera Timur",
+    "kabupaten_kota": "Kabupaten Halmahera Timur",
+    "zone_code": "82.06",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Pulau Morotai",
+    "kabupaten_kota": "Kabupaten Pulau Morotai",
+    "zone_code": "82.07",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Pulau Taliabu",
+    "kabupaten_kota": "Kabupaten Pulau Taliabu",
+    "zone_code": "82.08",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kota Ternate",
+    "kabupaten_kota": "Kota Ternate",
+    "zone_code": "82.71",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kota Tidore Kepulauan",
+    "kabupaten_kota": "Kota Tidore Kepulauan",
+    "zone_code": "82.72",
+    "provinsi": "Maluku Utara"
+  },
+  {
+    "name": "Kabupaten Jayapura",
+    "kabupaten_kota": "Kabupaten Jayapura",
+    "zone_code": "91.03",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Kepulauan Yapen",
+    "kabupaten_kota": "Kabupaten Kepulauan Yapen",
+    "zone_code": "91.05",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Biak Numfor",
+    "kabupaten_kota": "Kabupaten Biak Numfor",
+    "zone_code": "91.06",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Sarmi",
+    "kabupaten_kota": "Kabupaten Sarmi",
+    "zone_code": "91.10",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Keerom",
+    "kabupaten_kota": "Kabupaten Keerom",
+    "zone_code": "91.11",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Waropen",
+    "kabupaten_kota": "Kabupaten Waropen",
+    "zone_code": "91.15",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Supiori",
+    "kabupaten_kota": "Kabupaten Supiori",
+    "zone_code": "91.19",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Mamberamo Raya",
+    "kabupaten_kota": "Kabupaten Mamberamo Raya",
+    "zone_code": "91.20",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kota Jayapura",
+    "kabupaten_kota": "Kota Jayapura",
+    "zone_code": "91.71",
+    "provinsi": "Papua"
+  },
+  {
+    "name": "Kabupaten Manokwari",
+    "kabupaten_kota": "Kabupaten Manokwari",
+    "zone_code": "92.02",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "name": "Kabupaten Fak Fak",
+    "kabupaten_kota": "Kabupaten Fak Fak",
+    "zone_code": "92.03",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "name": "Kabupaten Teluk Bintuni",
+    "kabupaten_kota": "Kabupaten Teluk Bintuni",
+    "zone_code": "92.06",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "name": "Kabupaten Teluk Wondama",
+    "kabupaten_kota": "Kabupaten Teluk Wondama",
+    "zone_code": "92.07",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "name": "Kabupaten Kaimana",
+    "kabupaten_kota": "Kabupaten Kaimana",
+    "zone_code": "92.08",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "name": "Kabupaten Manokwari Selatan",
+    "kabupaten_kota": "Kabupaten Manokwari Selatan",
+    "zone_code": "92.11",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "name": "Kabupaten Pegunungan Arfak",
+    "kabupaten_kota": "Kabupaten Pegunungan Arfak",
+    "zone_code": "92.12",
+    "provinsi": "Papua Barat"
+  },
+  {
+    "name": "Kabupaten Merauke",
+    "kabupaten_kota": "Kabupaten Merauke",
+    "zone_code": "93.01",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "name": "Kabupaten Boven Digoel",
+    "kabupaten_kota": "Kabupaten Boven Digoel",
+    "zone_code": "93.02",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "name": "Kabupaten Mappi",
+    "kabupaten_kota": "Kabupaten Mappi",
+    "zone_code": "93.03",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "name": "Kabupaten Asmat",
+    "kabupaten_kota": "Kabupaten Asmat",
+    "zone_code": "93.04",
+    "provinsi": "Papua Selatan"
+  },
+  {
+    "name": "Kabupaten Nabire",
+    "kabupaten_kota": "Kabupaten Nabire",
+    "zone_code": "94.01",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Puncak Jaya",
+    "kabupaten_kota": "Kabupaten Puncak Jaya",
+    "zone_code": "94.02",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Paniai",
+    "kabupaten_kota": "Kabupaten Paniai",
+    "zone_code": "94.03",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Mimika",
+    "kabupaten_kota": "Kabupaten Mimika",
+    "zone_code": "94.04",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Puncak",
+    "kabupaten_kota": "Kabupaten Puncak",
+    "zone_code": "94.05",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Dogiyai",
+    "kabupaten_kota": "Kabupaten Dogiyai",
+    "zone_code": "94.06",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Intan Jaya",
+    "kabupaten_kota": "Kabupaten Intan Jaya",
+    "zone_code": "94.07",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Deiyai",
+    "kabupaten_kota": "Kabupaten Deiyai",
+    "zone_code": "94.08",
+    "provinsi": "Papua Tengah"
+  },
+  {
+    "name": "Kabupaten Jayawijaya",
+    "kabupaten_kota": "Kabupaten Jayawijaya",
+    "zone_code": "95.01",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kab Pegunungan Bintang",
+    "kabupaten_kota": "Kab Pegunungan Bintang",
+    "zone_code": "95.02",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kabupaten Yahukimo",
+    "kabupaten_kota": "Kabupaten Yahukimo",
+    "zone_code": "95.03",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kabupaten Tolikara",
+    "kabupaten_kota": "Kabupaten Tolikara",
+    "zone_code": "95.04",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kabupaten Mamberamo Tengah",
+    "kabupaten_kota": "Kabupaten Mamberamo Tengah",
+    "zone_code": "95.05",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kabupaten Yalimo",
+    "kabupaten_kota": "Kabupaten Yalimo",
+    "zone_code": "95.06",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kabupaten Lanny Jaya",
+    "kabupaten_kota": "Kabupaten Lanny Jaya",
+    "zone_code": "95.07",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kabupaten Nduga",
+    "kabupaten_kota": "Kabupaten Nduga",
+    "zone_code": "95.08",
+    "provinsi": "Papua Pegunungan"
+  },
+  {
+    "name": "Kabupaten Sorong",
+    "kabupaten_kota": "Kabupaten Sorong",
+    "zone_code": "96.01",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "name": "Kabupaten Sorong Selatan",
+    "kabupaten_kota": "Kabupaten Sorong Selatan",
+    "zone_code": "96.02",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "name": "Kabupaten Raja Ampat",
+    "kabupaten_kota": "Kabupaten Raja Ampat",
+    "zone_code": "96.03",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "name": "Kabupaten Tambrauw",
+    "kabupaten_kota": "Kabupaten Tambrauw",
+    "zone_code": "96.04",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "name": "Kabupaten Maybrat",
+    "kabupaten_kota": "Kabupaten Maybrat",
+    "zone_code": "96.05",
+    "provinsi": "Papua Barat Daya"
+  },
+  {
+    "name": "Kota Sorong",
+    "kabupaten_kota": "Kota Sorong",
+    "zone_code": "96.71",
+    "provinsi": "Papua Barat Daya"
+  }
+]

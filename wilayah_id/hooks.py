@@ -97,7 +97,7 @@ app_license = "mit"
 # Name of the app being installed is passed as an argument
 
 # before_app_install = "wilayah_id.utils.before_app_install"
-# after_app_install = "wilayah_id.utils.after_app_install"
+# after_app_install = "wilayah_id.setup.install.after_app_install"
 
 # Integration Cleanup
 # -------------------
@@ -242,3 +242,5 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+after_migrate = "wilayah_id.setup.install.after_app_install"
