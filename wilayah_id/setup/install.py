@@ -1,6 +1,7 @@
 import frappe
 import json
 import os
+from frappe.utils import update_progress_bar
 
 def after_app_install():
     import_provinsi()
@@ -29,8 +30,10 @@ def import_provinsi():
         "provinsi",
         "zone_code"
 	]
-    for row in data:
+    l = len(data)
+    for i, row in enumerate(data):
         # CEGAH DUPLIKASI
+        update_progress_bar(f"Seeding data for {DOCTYPE}", i, l)
         if frappe.db.exists(DOCTYPE, row.get("name")):
             continue
 
@@ -41,7 +44,7 @@ def import_provinsi():
                 row.get("zone_code")
             )
         )
-
+    print()
     frappe.db.bulk_insert(DOCTYPE, fields, rows)
     frappe.db.commit()
 
@@ -68,8 +71,10 @@ def import_kabupaten_kota():
         "zone_code",
         "provinsi"
 	]
-    for row in data:
+    l = len(data)
+    for i, row in enumerate(data):
         # CEGAH DUPLIKASI
+        update_progress_bar(f"Seeding data for {DOCTYPE}", i, l)
         if frappe.db.exists(DOCTYPE, row.get("name")):
             continue
 
@@ -81,9 +86,9 @@ def import_kabupaten_kota():
                 row.get("provinsi")
             )
         )
-
     frappe.db.bulk_insert(DOCTYPE, fields, rows)
     frappe.db.commit()
+    print()
 
 
 def import_kecamatan():
@@ -109,8 +114,10 @@ def import_kecamatan():
         "provinsi",
         "kabupaten_kota",
 	]
-    for row in data:
+    l = len(data)
+    for i, row in enumerate(data):
         # CEGAH DUPLIKASI
+        update_progress_bar(f"Seeding data for {DOCTYPE}", i, l)
         if frappe.db.exists(DOCTYPE, row.get("name")):
             continue
 
@@ -126,6 +133,7 @@ def import_kecamatan():
 
     frappe.db.bulk_insert(DOCTYPE, fields, rows)
     frappe.db.commit()
+    print()
 
 def import_kelurahan():
     DOCTYPE = "Desa Atau Kelurahan"
@@ -151,8 +159,10 @@ def import_kelurahan():
         "kabupaten_kota",
         "kecamatan",
 	]
-    for row in data:
+    l = len(data)
+    for i, row in enumerate(data):
         # CEGAH DUPLIKASI
+        update_progress_bar(f"Seeding data for {DOCTYPE}", i, l)
         if frappe.db.exists(DOCTYPE, row.get("name")):
             continue
 
@@ -166,6 +176,7 @@ def import_kelurahan():
                 row.get("kecamatan")
             )
         )
-
+    
     frappe.db.bulk_insert(DOCTYPE, fields, rows)
     frappe.db.commit()
+    print()
